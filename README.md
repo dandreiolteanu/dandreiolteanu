@@ -1,4 +1,4 @@
-### 👋 Hello there! I'm Andrei
+<h3 align='right'>👋 Hello there! I'm Andrei</h3>
 <br>
 <p align="right">
   <img src="message_bubble.png" height="54px">
